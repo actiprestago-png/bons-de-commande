@@ -1,4 +1,4 @@
-const CACHE = 'bons-commande-v5';
+const CACHE = 'bons-commande-v6';
 
 self.addEventListener('install', (event) => {
   event.waitUntil(caches.open(CACHE).then((cache) => cache.addAll(['./', './index.html'])));
