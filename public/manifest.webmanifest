@@ -1,0 +1,20 @@
+{
+  "name": "Bons de commande",
+  "short_name": "Bons",
+  "description": "Bons de commande pour la liste de livres.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "lang": "fr",
+  "background_color": "#F3EFE6",
+  "theme_color": "#1F4D3A",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
